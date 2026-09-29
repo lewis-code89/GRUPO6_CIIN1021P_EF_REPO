@@ -1,6 +1,4 @@
 # GRUPO6_CIIN1021P_EF_REPO
-Proyecto integrador de Base de Datos Avanzada y Big Data
-#Descripción
 Proyecto integrador desarrollado a partir de conjuntos de datos abiertos relacionados con la salud de la región Junín. El proyecto comprende procesos de automatización, seguridad, integración SQL–NoSQL, Data Warehouse, ETL, Business Intelligence y procesamiento Big Data.
 
 ## 📁 Estructura del repositorio

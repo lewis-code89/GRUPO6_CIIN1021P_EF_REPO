@@ -4,7 +4,7 @@ Proyecto integrador desarrollado a partir de conjuntos de datos abiertos relacio
 ## 📁 Estructura del repositorio
 El repositorio se encuentra organizado en carpetas según los componentes desarrollados durante el proyecto:
 ```text
-Proyecto-BD-Datos-Salud-Junin/
+GRUPO6_CIIN1021P_EF_REPO/
 │
 ├── 📁 SQL/
 ├── 📁 Automatizacion_SQL/
